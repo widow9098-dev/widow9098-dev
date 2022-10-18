@@ -3,9 +3,9 @@
 <hr>
 <h3 align="left">PC SPECS:</h3>
 <p align="left">
-  cpu: i7-8700k
-  gpu: gtx 1650 oc
-  ram: Crucial Ballistix 3200 MHz DDR4 16GB RGB
+  cpu: i7-8700k<br>
+  gpu: gtx 1650 oc<br>
+  ram: Crucial Ballistix 3200 MHz DDR4 16GB RGB<br>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
